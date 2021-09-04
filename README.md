@@ -11,4 +11,4 @@ Then use:
 ```npm start```
 to start the app on your local machine.
 
-Then go to the ```http://localhost:3000/``` and check it!
+In fine go to the ```http://localhost:3000/``` and check it!
