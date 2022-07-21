@@ -1,14 +1,13 @@
-### NPM
-To run this app you must have npm on your local machine.
+# Pre-setup
 
-### Run the app
-Firstly, you need to install all packages using the command:
+## Install dependencies
 
-```npm install```
+```
+npm install
+```
 
-Then use:
+## Run the project
 
-```npm start```
-to start the app on your local machine.
-
-In fine go to the ```http://localhost:3000/``` and check it!
+```
+npm start
+```
