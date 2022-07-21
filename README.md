@@ -6,7 +6,9 @@
 npm install
 ```
 
-## Run the project
+# Run the project
+
+## Start the development server
 
 ```
 npm start
